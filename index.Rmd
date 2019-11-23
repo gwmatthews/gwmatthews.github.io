@@ -14,4 +14,4 @@ Here's what I have neen working on lately.
 
 [ethics textbook](https://gwmatthews.github.io/ethics/)
 
-[philosophy of mind textbook](https://gwmatthews.github.io/mind/)
+[philosophy of mind textbook](https://gwmatthews.github.io/minds/)
