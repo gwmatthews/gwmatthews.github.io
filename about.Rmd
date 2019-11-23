@@ -2,7 +2,7 @@
 title "about"
 ---
 
-![medium-photo](images/02.jpg) \
+![medium-photo](images/02.jpg){width=400px} \
 
 
 
