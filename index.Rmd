@@ -1,0 +1,7 @@
+---
+title: "home"
+---
+
+Here's me site.
+
+[ethics slideshows](https://gwmatthews.github.io/ethics-slideshows/)

@@ -1,0 +1,14 @@
+name: "gwmatthews"
+output_dir: "."
+navbar:
+  title: "GWM"
+  left:
+    - text: "home"
+      href: index.html
+    - text: "about"
+      href: about.html
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css
