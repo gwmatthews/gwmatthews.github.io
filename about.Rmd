@@ -1,5 +1,5 @@
 ---
-title "about"
+title: "about"
 ---
 
 ![medium-photo](images/02.jpg){width=400px} \
