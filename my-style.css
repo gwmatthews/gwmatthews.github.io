@@ -1,0 +1,6 @@
+img[alt="medium-photo"] {
+  max-width: 400px;
+  border: 5px solid white;
+  border-radius: 5px;
+  box-shadow: 4px 4px 15px #111;
+}

@@ -2,4 +2,10 @@
 title "about"
 ---
 
-about me
+![medium-photo](images/02.jpg) \
+
+
+
+<br><br>
+
+I am a philosophy professor who likes building webpages. This site is mostly stuff I use in teaching and is very much under construction.
