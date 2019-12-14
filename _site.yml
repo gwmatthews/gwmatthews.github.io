@@ -1,7 +1,7 @@
 name: "gwmatthews"
 output_dir: "."
 navbar:
-  title: "ジウィマ"
+  title: ""
   left:
     - text: "GWM"
       href: index.html

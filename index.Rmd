@@ -1,6 +1,6 @@
 ---
-title: "GWM"
----
+title: "George W Matthews"
+--- 
 
 ![medium-photo](images/01.jpg){width=400px} \
 
@@ -8,10 +8,16 @@ title: "GWM"
 <br><br>
 
 
-Here's what I have been working on lately.
+Here's some of what I have been working on lately.
 
-[ethics slideshows](https://gwmatthews.github.io/ethics-slideshows/)
+It's all under construction...
 
-[ethics textbook](https://gwmatthews.github.io/ethics/)
 
-[philosophy of mind textbook](https://gwmatthews.github.io/minds/)
+
+[Philosophical Ethics: a guidebook for beginners](https://gwmatthews.github.io/ethics/)
+
+[Ethics slideshows](https://gwmatthews.github.io/ethics-slideshows/)
+
+[Notes on the philosophy of mind](https://gwmatthews.github.io/minds/)
+
+[Science or superstition course resources](https://gwmatthews.github.io/science-or-superstition)
