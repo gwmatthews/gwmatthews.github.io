@@ -7,7 +7,7 @@ img[alt="medium-photo"] {
 
 .photo-box {
   padding: 5px;
-  width: 90%;
+  max-width: 80%;
 }
 
 .photo-credit {
