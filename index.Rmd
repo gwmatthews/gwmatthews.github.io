@@ -3,10 +3,8 @@ title: "George W Matthews"
 --- 
 
 
-![medium-photo](images/01.jpg){width=400px} \
-
-
-<br><br>
+<script src="randomPhoto.js"></script>
+<div class="photo-credit">photos by Jim Matthews</div>
 
 
 Here's some of what I have been working on lately.

@@ -2,7 +2,8 @@
 title: "about"
 ---
 
-![medium-photo](images/02.jpg){width=400px} \
+<script src="randomPhoto.js"></script>
+<div class="photo-credit">photos by Jim Matthews</div>
 
 
 
