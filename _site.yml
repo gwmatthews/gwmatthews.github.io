@@ -10,5 +10,19 @@ navbar:
 
 output:
   html_document:
-    theme: flatly
+    theme: simplex
     css: my-style.css
+
+#output:
+# rmdformats::readthedown:
+#    self_contained: false
+#    thumbnails: true
+#    lightbox: true
+#    gallery: false
+#    highlight: tango
+#    css: my-style.css
+    
+#output:
+# tufte::tufte_html:
+#    css: my-style.css
+    
