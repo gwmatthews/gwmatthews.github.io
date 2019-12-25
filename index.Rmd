@@ -12,7 +12,6 @@ Here's some of what I have been working on lately.
 It's all under construction...
 
 
-
 [Philosophical Ethics: a guidebook for beginners](https://gwmatthews.github.io/ethics/)
 
 [Ethics slideshows](https://gwmatthews.github.io/ethics-slideshows/)
@@ -20,3 +19,5 @@ It's all under construction...
 [Notes on the philosophy of mind](https://gwmatthews.github.io/minds/)
 
 [Science or superstition course resources](https://gwmatthews.github.io/science-or-superstition)
+
+[Jim Matthews photos](https://gwmatthews.github.io/jim-photos): a website for my brother Jim's photography (featured here too!)
