@@ -13,6 +13,8 @@ output:
   html_document:
     theme: simplex
     css: my-style.css
+    includes:
+      in_header: header.html
 
 #output:
 # rmdformats::readthedown:
