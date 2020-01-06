@@ -14,7 +14,7 @@ It's all under construction...
 
 [Philosophical Ethics: a guidebook for beginners](https://gwmatthews.github.io/ethics/)
 
-[Ethics slideshows](https://gwmatthews.github.io/ethics-slideshows/)
+[Ethics slideshows](ethics-slides.html)
 
 [Notes on the philosophy of mind](https://gwmatthews.github.io/minds/)
 
