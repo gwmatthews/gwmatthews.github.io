@@ -1,5 +1,7 @@
 ---
 title: "about"
+includes:
+  after_body: rss.html
 ---
 
 <script src="randomPhoto.js"></script>
@@ -10,3 +12,10 @@ title: "about"
 <br><br>
 
 I am a philosophy professor who likes building webpages. This site is mostly stuff I use in teaching and is very much under construction.
+
+
+<script language="JavaScript" src="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=https%3A%2F%2Fhypothes.is%2Fstream.atom%3Fuser%3Dgeoslack&amp;num=5" type="text/javascript"></script>
+
+<noscript>
+<a href="http://www.vanderbilt.edu/asset/feed/feed2js.php?src=https%3A%2F%2Fhypothes.is%2Fstream.atom%3Fuser%3Dgeoslack&amp;num=5&amp;html=y">View RSS feed</a>
+</noscript>

@@ -15,6 +15,7 @@ output:
     css: my-style.css
     includes:
       in_header: header.html
+      after_body: rss.html
 
 #output:
 # rmdformats::readthedown:
