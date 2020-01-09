@@ -16,7 +16,9 @@ It's all under construction...
 
 [Ethics slideshows](ethics-slides.html)
 
-[Notes on the philosophy of mind](https://gwmatthews.github.io/minds/)
+[Philosophy slideshows](philosophy-slides.html)
+
+<!-- [Notes on the philosophy of mind](https://gwmatthews.github.io/minds/) -->
 
 [Science or superstition course resources](https://gwmatthews.github.io/science-or-superstition)
 

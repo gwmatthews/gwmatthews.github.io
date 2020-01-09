@@ -1,0 +1,40 @@
+---
+title: "philosophy slideshows"
+---
+
+<br>
+
+![photo](images/g-3.jpg){class="photo" width=400px}\
+
+
+<br><br>
+
+1. What is philosophy?
+[web](https://gwmatthews.github.io/philosophy-slideshows/01-introduction.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-introduction.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-introduction-print.pdf)
+2. Philosophy of Religion
+<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/02-religion.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion-print.pdf) -->
+3. Ethics
+<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/03-ethics.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-ethics.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-ethics-print.pdf) -->
+4. Philosophy of Mind
+<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/04-mind.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-mind.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-mind-print.pdf) -->
+5. Freedom and Determinism
+<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/05-freedom.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/05-freedom.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/05-freedom-print.pdf) -->
+6. The Problem of Knowledge
+<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/06-knowledge.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/06-knowledge.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/06-knowledge-print.pdf) -->
+7. Aesthetics
+<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/07-art.html)
+- [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/07-art.pdf)
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/07-art-print.pdf) -->
+
