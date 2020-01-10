@@ -14,9 +14,9 @@ title: "philosophy slideshows"
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-introduction.pdf)
 - [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-introduction-print.pdf)
 2. Philosophy of Religion
-<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/02-religion.html)
+- [web](https://gwmatthews.github.io/philosophy-slideshows/02-religion.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion-print.pdf) -->
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion-print.pdf)
 3. Ethics
 <!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/03-ethics.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-ethics.pdf)
