@@ -10,7 +10,7 @@ title: "philosophy slideshows"
 <br><br>
 
 1. What is philosophy?
-[web](https://gwmatthews.github.io/philosophy-slideshows/01-introduction.html)
+- [web](https://gwmatthews.github.io/philosophy-slideshows/01-introduction.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-introduction.pdf)
 - [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/01-introduction-print.pdf)
 2. Philosophy of Religion
@@ -18,9 +18,9 @@ title: "philosophy slideshows"
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion.pdf)
 - [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/02-religion-print.pdf)
 3. Ethics
-<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/03-ethics.html)
+- [web](https://gwmatthews.github.io/philosophy-slideshows/03-ethics.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-ethics.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-ethics-print.pdf) -->
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-ethics-print.pdf)
 4. Philosophy of Mind
 <!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/04-mind.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-mind.pdf)
