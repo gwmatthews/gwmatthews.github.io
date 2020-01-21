@@ -18,6 +18,8 @@ It's all under construction...
 
 [Philosophy slideshows](philosophy-slides.html)
 
+[Science or Superstition slideshows](science-slides.html)
+
 <!-- [Notes on the philosophy of mind](https://gwmatthews.github.io/minds/) -->
 
 [Science or superstition course resources](https://gwmatthews.github.io/science-or-superstition)
