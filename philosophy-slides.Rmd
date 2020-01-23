@@ -22,9 +22,9 @@ title: "philosophy slideshows"
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-slides.pdf)
 - [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/03-handout.pdf)
 4. Philosophy of Mind
-<!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/04-slides.html)
+- [web](https://gwmatthews.github.io/philosophy-slideshows/04-slides.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-slides.pdf)
-- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-handout.pdf) -->
+- [print](https://gwmatthews.github.io/philosophy-slideshows/pdf/04-handout.pdf)
 5. Freedom and Determinism
 <!-- - [web](https://gwmatthews.github.io/philosophy-slideshows/05-slides.html)
 - [download](https://gwmatthews.github.io/philosophy-slideshows/pdf/05-slides.pdf)
