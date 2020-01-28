@@ -11,17 +11,19 @@ Here's some of what I have been working on lately.
 
 It's all under construction...
 
+Ethics
 
-[Philosophical Ethics: a guidebook for beginners](https://gwmatthews.github.io/ethics/)
+- [text](https://gwmatthews.github.io/ethics/)
+- [slideshows](ethics-slides.html)
 
-[Ethics slideshows](ethics-slides.html)
+Introduction to Philosophy
 
-[Philosophy slideshows](philosophy-slides.html)
+- [slideshows](philosophy-slides.html)
 
-[Science or Superstition slideshows](science-slides.html)
+Science or Superstition
 
-<!-- [Notes on the philosophy of mind](https://gwmatthews.github.io/minds/) -->
-
-[Science or superstition course resources](https://gwmatthews.github.io/science-or-superstition)
+- [slideshows](science-slides.html)
+- [text](https://gwmatthews.github.io/science-or-superstition)
+- [files](https://gwmatthews.github.io/science-or-superstition-course-files)
 
 [Barebones Photography](https://www.barebones-photography.com/): my brother Jim's photography -- featured here too.
