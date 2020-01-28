@@ -9,7 +9,7 @@ title: "science or supersitition slideshows"
 
 <br><br>
 
-1. What is Philosophy?
+1. Philosophy, science and skepticism
 - [web](https://gwmatthews.github.io/science-slideshows/01-slides.html)
 - [download](https://gwmatthews.github.io/science-slideshows/pdf/01-print.pdf)
 - [print](https://gwmatthews.github.io/science-slideshows/pdf/01-handout.pdf)
