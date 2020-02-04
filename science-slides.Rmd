@@ -17,3 +17,7 @@ title: "science or supersitition slideshows"
 - [web](https://gwmatthews.github.io/science-slideshows/02-slides.html)
 - [download](https://gwmatthews.github.io/science-slideshows/pdf/02-print.pdf)
 - [print](https://gwmatthews.github.io/science-slideshows/pdf/02-handout.pdf)
+3. Magical thinking
+- [web](https://gwmatthews.github.io/science-slideshows/03-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/03-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/03-handout.pdf)
