@@ -37,10 +37,10 @@ title: "ethics slideshows"
 - [web](https://gwmatthews.github.io/ethics-slideshows/07-contract.html)
 - [download](https://gwmatthews.github.io/ethics-slideshows/pdf/07-contract.pdf)
 - [print](https://gwmatthews.github.io/ethics-slideshows/pdf/07-contract-print.pdf)
-8. Utilitarianism <!--
+8. Utilitarianism 
 - [web](https://gwmatthews.github.io/ethics-slideshows/08-utilitarianism.html)
 - [download](https://gwmatthews.github.io/ethics-slideshows/pdf/08-utilitarianism.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/08-utilitarianism-print.pdf)-->
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/08-utilitarianism-print.pdf)
 9. Kant's ethics of duty <!--
 - [web](https://gwmatthews.github.io/ethics-slideshows/09-kant.html)
 - [download](https://gwmatthews.github.io/ethics-slideshows/pdf/09-kant.pdf)

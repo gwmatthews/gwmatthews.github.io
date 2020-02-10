@@ -9,8 +9,6 @@ title: "George W Matthews"
 
 Here's some of what I have been working on lately.
 
-It's all under construction...
-
 Ethics
 
 - [text](https://gwmatthews.github.io/ethics/)

@@ -1,0 +1,75 @@
+---
+title: "curriculum vitae"
+author: "George W. Matthews"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+classoption: letterpaper
+geometry: margin = 2.5cm
+output: 
+#  pdf_document: default
+#    template: templates/cv.tex
+  html_document: default
+#    css: css/R.css
+#    template: templates/cv.html
+---
+
+***
+
+### AOS
+
+Ethics, History of Philosophy
+
+### AOC
+
+Critical Thinking, Logic, Philosophy of Mind, Environmental Ethics, Modern Philosophy
+
+***
+
+### Education
+
+(1996) PhD, Philosophy 
+
+- The Pennsylvania State University
+
+(1990) M.A., Philosophy 
+
+- Loyola University of Chicago
+
+(1986) B.F.A., Sculpture
+
+- Pratt Institute
+
+***
+
+### Teaching Experience
+
+(2012 - present) Teaching Lecturer
+
+- Plymouth State University: Plymouth, NH
+  - taught upper and lower division course to majors and non-majors
+  - courses taught: Thinking for Yourself, Ethics in Everyday Life, Building a Civil Society, Elements of Logic, Perspectives on Religion, Science or Superstition, Modern Philosophy, Humans and Humanoids, Mind and Machine, Environmental Ethics
+
+
+(2011- present) Adjunct Professor
+
+- The Pennsylvania College of Technology: Williamsport, PA
+  - taught distance learning courses in philosophy
+  - courses taught: Introduction to Philosophy, Ethics
+  - LME's used: WebCT, Angel, D2L
+
+(1998 - 2010) Instructor
+
+- The Pennsylvania College of Technology: Williamsport, PA
+  - taught and developed courses in philosophy 
+  - courses taught: Introduction to Philosophy, Ethics, Logic, Environmental Ethics, Minds Brains and Computers, Social and Political Philosophy
+
+(1996 - 1998) Instructor
+
+- The Pennsylvania State University: University Park and Altoona PA
+  - taught courses in philosophy and humanities
+  - courses taught: The Making of the Modern Mind, Ethics and Social Issues, Business Ethics, Ethics in the Professions
+  
+***
+
+### Publications
+
+Editor, *Introduction to Philosophy: Ethics*, Rebus Community, 2019, published online by The Rebus Foundation at [https://press.rebus.community/intro-to-phil-ethics/](https://press.rebus.community/intro-to-phil-ethics/){target="_blank"}
