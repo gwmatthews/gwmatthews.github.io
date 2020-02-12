@@ -21,3 +21,7 @@ title: "science or supersitition slideshows"
 - [web](https://gwmatthews.github.io/science-slideshows/03-slides.html)
 - [download](https://gwmatthews.github.io/science-slideshows/pdf/03-print.pdf)
 - [print](https://gwmatthews.github.io/science-slideshows/pdf/03-handout.pdf)
+4. The Scientific Revolution
+- [web](https://gwmatthews.github.io/science-slideshows/04-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/04-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/04-handout.pdf)
