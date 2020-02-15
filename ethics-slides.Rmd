@@ -10,42 +10,41 @@ title: "ethics slideshows"
 <br><br>
 
 1. Philosophical Ethics
-- [web](https://gwmatthews.github.io/ethics-slideshows/01-introduction.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/01-introduction.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/01-introduction-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/01-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/01-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/01-handout.pdf)
 2. A Little Logic
-- [web](https://gwmatthews.github.io/ethics-slideshows/02-logic.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/02-logic.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/02-logic-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/02-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/02-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/02-handout.pdf)
 3. Fallacies and Biases
-- [web](https://gwmatthews.github.io/ethics-slideshows/03-fallacies.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/03-fallacies.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/03-fallacies-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/03-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/03-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/03-handout.pdf)
 4. Moral Relativism
-- [web](https://gwmatthews.github.io/ethics-slideshows/04-relativism.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/04-relativism.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/04-relativism-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/04-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/04-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/04-handout.pdf)
 5. Ethics and Religion
-- [web](https://gwmatthews.github.io/ethics-slideshows/05-religion.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/05-religion.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/05-religion-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/05-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/05-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/05-handout.pdf)
 6. Egoism
-- [web](https://gwmatthews.github.io/ethics-slideshows/06-egoism.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/06-egoism.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/06-egoism-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/06-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/06-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/06-handout.pdf)
 7. Social Contract Theory
-- [web](https://gwmatthews.github.io/ethics-slideshows/07-contract.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/07-contract.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/07-contract-print.pdf)
+- [web](https://gwmatthews.github.io/ethics-slideshows/07-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/07-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/07-handout.pdf)
 8. Utilitarianism 
-- [web](https://gwmatthews.github.io/ethics-slideshows/08-utilitarianism.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/08-utilitarianism.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/08-utilitarianism-print.pdf)
-9. Kant's ethics of duty <!--
-- [web](https://gwmatthews.github.io/ethics-slideshows/09-kant.html)
-- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/09-kant.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/09-kant-print.pdf)-->
-
+- [web](https://gwmatthews.github.io/ethics-slideshows/08-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/08-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/08-handout.pdf)
+9. Kant's ethics of duty 
+- [web](https://gwmatthews.github.io/ethics-slideshows/09-slides.html)
+- [download](https://gwmatthews.github.io/ethics-slideshows/pdf/09-slides.pdf)
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/09-handout.pdf)-
 
 
 
