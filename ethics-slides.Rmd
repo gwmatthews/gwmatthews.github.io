@@ -44,7 +44,7 @@ title: "ethics slideshows"
 9. Kant's ethics of duty 
 - [web](https://gwmatthews.github.io/ethics-slideshows/09-slides.html)
 - [download](https://gwmatthews.github.io/ethics-slideshows/pdf/09-slides.pdf)
-- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/09-handout.pdf)-
+- [print](https://gwmatthews.github.io/ethics-slideshows/pdf/09-handout.pdf)
 
 
 
