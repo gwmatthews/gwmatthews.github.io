@@ -45,4 +45,12 @@ title: "science or supersitition slideshows"
 - [download](https://gwmatthews.github.io/science-slideshows/pdf/09-print.pdf)
 - [print](https://gwmatthews.github.io/science-slideshows/pdf/09-handout.pdf)
 10. Identify the Fallacy
-- [web](https://gwmatthews.github.io/science-slideshows/09-slides.html)
+- [web](https://gwmatthews.github.io/science-slideshows/10-slides.html)
+11. Darwinian Evolution
+- [web](https://gwmatthews.github.io/science-slideshows/11-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/11-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/11-handout.pdf)
+12. Rolling the Dice: evolution, chance and design
+- [web](https://gwmatthews.github.io/science-slideshows/12-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/12-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/12-handout.pdf)
