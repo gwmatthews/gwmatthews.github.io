@@ -54,3 +54,15 @@ title: "science or supersitition slideshows"
 - [web](https://gwmatthews.github.io/science-slideshows/12-slides.html)
 - [download](https://gwmatthews.github.io/science-slideshows/pdf/12-print.pdf)
 - [print](https://gwmatthews.github.io/science-slideshows/pdf/12-handout.pdf)
+13. Conspiracy Theories
+- [web](https://gwmatthews.github.io/science-slideshows/13-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/13-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/13-handout.pdf)
+14. Science Denial
+- [web](https://gwmatthews.github.io/science-slideshows/14-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/14-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/14-handout.pdf)
+15. History of Science: Psychology
+- [web](https://gwmatthews.github.io/science-slideshows/15-slides.html)
+- [download](https://gwmatthews.github.io/science-slideshows/pdf/15-print.pdf)
+- [print](https://gwmatthews.github.io/science-slideshows/pdf/15-handout.pdf)
