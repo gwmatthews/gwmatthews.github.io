@@ -11,8 +11,9 @@ Here's some of what I have been working on lately.
 
 Ethics
 
-- [text](https://gwmatthews.github.io/ethics/)
+- [my online textbook](https://gwmatthews.github.io/ethics/)
 - [slideshows](ethics-slides.html)
+- [an open access textbook I edited](https://press.rebus.community/intro-to-phil-ethics/){target="_blank"}
 
 Introduction to Philosophy
 
