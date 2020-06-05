@@ -9,6 +9,10 @@ title: "George W Matthews"
 
 Here's some of what I have been working on lately.
 
+***
+
+## Teaching 
+
 Ethics
 
 - [my online textbook](https://gwmatthews.github.io/ethics/)
@@ -30,5 +34,21 @@ Society, Ethics and the Law
 
 - [course blog](http://www.6worlds.net/society-ethics-law/){target="_blank"}
 
+***
+
+## Personal
 
 [Barebones Photography](https://www.barebones-photography.com/): my brother Jim's photography -- featured here too.
+
+***
+
+## Portfolio
+
+Working on my coding skills at [freeCodeCamp](https://www.freecodecamp.org){target="_blank"}!
+
+- Responsive Web Design
+  - [Tribute Page](https://gwmatthews.github.io/freeCodeCamp-challenges/responsive-web/challenge-1.html) 
+  
+***
+
+<footer>!<a rel="license" href="http://creativecommons.org/licenses/by/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution 2.0 Generic License</a>.</footer>
