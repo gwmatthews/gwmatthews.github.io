@@ -20,23 +20,23 @@ img[alt="medium-photo"] {
 h1.title{
   padding: 20px;
   font-size: x-large;
-  color: #888;
+  color: #aaa;
   text-shadow: 2px 2px 4px black;
 }
 
 body {
   background-color: #222;
-  color: #888;
+  color: #aaa;
   font-size: 16px;
   line-height: 1.5;
 }
 
 a {
-  color: #8C326E;
+  color: #C16DCA;
 }
 
 a:hover {
-  color: #c8d;
+  color: #cf8fdf;
   text-decoration: none;
 }
 
