@@ -47,7 +47,10 @@ Society, Ethics and the Law
 Working on my coding skills at [freeCodeCamp](https://www.freecodecamp.org){target="_blank"}!
 
 - Responsive Web Design
-  - [Tribute Page](https://gwmatthews.github.io/freeCodeCamp-challenges/responsive-web/challenge-1.html) 
+  - [Tribute Page](https://gwmatthews.github.io/freeCodeCamp-challenges/responsive-web/01-tribute/index.html)
+  - [HTML form](https://gwmatthews.github.io/freeCodeCamp-challenges/responsive-web/02-form/index.html) 
+  
+[My GitHub page](https://github.com/gwmatthews).
   
 ***
 
