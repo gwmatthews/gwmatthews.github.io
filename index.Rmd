@@ -18,6 +18,7 @@ Ethics
 - [my online textbook](https://gwmatthews.github.io/ethics/)
 - [slideshows](ethics-slides.html)
 - [an open access textbook I edited](https://press.rebus.community/intro-to-phil-ethics/){target="_blank"}
+- [ethics updates](ethics-updates.html)
 
 Introduction to Philosophy
 
