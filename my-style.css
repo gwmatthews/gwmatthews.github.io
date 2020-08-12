@@ -64,10 +64,17 @@ footer {
 }
 
 footer img {
-  max-height: 18px;
+  max-height: 28px;
   padding-bottom: 5px;
-  opaci
+}
   
-navbar-header {
+.navbar-header {
   color: #222;
+}
+
+@media (min-width: 800px){
+.widget {
+  padding: 20px 25%;
+  margin-top: 3rem;
+}
 }

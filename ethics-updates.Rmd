@@ -2,4 +2,8 @@
 title: "ethics updates"
 ---
 
-<a class="twitter-timeline" data-width="400" data-height="700" href="https://twitter.com/geoslack/lists/ethics?ref_src=twsrc%5Etfw">A Twitter List by geoslack</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+This is a list of recent tweets from a variety of organizations and publications concerned with ethics. Click the link above each picture to go directly to the article. Click on the image to see the original post on Twitter.
+
+<div class="widget">
+<a class="twitter-timeline" data-theme="dark" data-width="600" data-height="800" href="https://twitter.com/geoslack/lists/ethics?ref_src=twsrc%5Etfw">A Twitter List by geoslack</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
