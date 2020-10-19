@@ -15,13 +15,14 @@ Here's some of what I have been working on lately.
 
 Ethics
 
-- [my online textbook](https://gwmatthews.github.io/ethics/)
+- [Philosophical Ethics](https://gwmatthews.github.io/ethics/): an open source online textbook
 - [slideshows](ethics-slides.html)
-- [an open access textbook I edited](https://press.rebus.community/intro-to-phil-ethics/){target="_blank"}
+- [Ethics, an anthology](https://press.rebus.community/intro-to-phil-ethics/){target="_blank"}
 - [ethics updates](ethics-updates.html)
 
 Introduction to Philosophy
 
+- [Philosophy in the Wild](https://gwmatthews.github.io/philosophy-in-the-wild/): an open source online textbook currently in heavy development
 - [slideshows](philosophy-slides.html)
 
 Science or Superstition
