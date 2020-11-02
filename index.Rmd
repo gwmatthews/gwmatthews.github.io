@@ -40,11 +40,13 @@ Society, Ethics and the Law
 
 ## Personal
 
-[Barebones Photography](https://www.barebones-photography.com/): my brother Jim's photography -- featured here too.
+- [Barebones Photography](https://www.barebones-photography.com/): my brother Jim's photography -- featured here too.
 
 <!-- [Romania](https://gwmatthews.github.io/resources/romania.pdf): a photo essay from my first trip.
 
 -->
+
+- [Shirokuma Cafe](https://gwmatthews.github.io/Shirokuma-Cafe): a Japanese language learning resource. A simple website for listening and reading comprehension practice, based on the popular anime series.
 
 ***
 
