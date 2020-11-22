@@ -40,7 +40,7 @@ Society, Ethics and the Law
 
 ## Personal
 
-- [Sutra Style: ](https://github.com/gwmatthews/TheFourVows/blob/main/sutra-styles.pdf) Some _**LaTeX**_ code for styling Japanese sutras for tracing, reading and display.
+- [Sutra Style: ](https://github.com/gwmatthews/TheFourVows) Some _**LaTeX**_ code for styling Japanese sutras for tracing, reading and display. [documentation](sutra-styles.pdf)
 
 - [Barebones Photography](https://www.barebones-photography.com/): my brother Jim's photography -- featured here too.
 
