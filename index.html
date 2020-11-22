@@ -22,10 +22,21 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -331,7 +342,8 @@ photos by Jim Matthews
 <div id="personal" class="section level2">
 <h2>Personal</h2>
 <ul>
-<li><a href="https://www.barebones-photography.com/">Barebones Photography</a>: my brother Jim’s photography – featured here too.</li>
+<li><p><a href="https://github.com/gwmatthews/TheFourVows/blob/main/sutra-styles.pdf">Sutra Style:</a> Some <em><strong>LaTeX</strong></em> code for styling Japanese sutras for tracing, reading and display.</p></li>
+<li><p><a href="https://www.barebones-photography.com/">Barebones Photography</a>: my brother Jim’s photography – featured here too.</p></li>
 </ul>
 <!-- [Romania](https://gwmatthews.github.io/resources/romania.pdf): a photo essay from my first trip.
 
@@ -367,7 +379,7 @@ photos by Jim Matthews
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
