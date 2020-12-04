@@ -1,0 +1,14 @@
+---
+title: "wanikani goods"
+---
+
+Wanikani is an integral part of my strategy for learning Japanese. It is an online Structured Reptition System program for learning more than 2000 kanji and lots of vocabulary. The community that has developed around Wanikani is also a great inspiration for code projects building on the open data model that wanikani follows. Here are two of mine.
+
+- [wanikani-cards](kanji-two-sided.pdf). [gitHub repo](https://github.com/gwmatthews/wanikani-cards)
+- flashcards: an offshoot of the [sutra.sty](https://gwmatthews.github.io/sutra-styles.pdf) project. Linux bash scripts for the automated production of flashcards from Wanikani Item Inspector .scv files. [gitHub repo](https://github.com/gwmatthews/TheFourVows/tree/main/flashcards)
+  - [vocabulary level 9](vocab-9.pdf)
+  - [vocabulary level 10](vocab-10.pdf)
+  - [vocabulary level 11](vocab-11.pdf)
+  - [vocabulary level 12](vocab-12.pdf)
+  - [vocabulary level 13](vocab-13.pdf)
+  
