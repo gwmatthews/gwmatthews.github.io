@@ -40,9 +40,9 @@ Society, Ethics and the Law
 
 ## Personal
 
-- [Sutra Style: ](https://github.com/gwmatthews/TheFourVows) Some _**LaTeX**_ code for styling Japanese sutras for tracing, reading and display. [documentation](sutra-styles.pdf)
+- [Sutra Styles](https://github.com/gwmatthews/TheFourVows): Some _**LaTeX**_ code for styling Japanese sutras for tracing, reading and display. [documentation](sutra-styles.pdf)
 
-- [Wanikani goods](wanikani.html)
+- [Wanikani goods](wanikani.html): various study aids for people learning kanji with Wanikani.
 
 - [Barebones Photography](https://www.barebones-photography.com/): my brother Jim's photography -- featured here too.
 
