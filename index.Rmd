@@ -27,10 +27,8 @@ Introduction to Philosophy
 
 Science or Superstition
 
-- [course blog](http://www.6worlds.net/science-blog/){target="_blank"}
 - [slideshows](science-slides.html)
-<!-- - [text](https://gwmatthews.github.io/science-or-superstition) 
-- [files](https://gwmatthews.github.io/science-or-superstition-course-files) -->
+
 
 
 ***
