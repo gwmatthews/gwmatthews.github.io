@@ -2,7 +2,7 @@
 title: "wanikani goods"
 ---
 
-Wanikani is an integral part of my strategy for learning Japanese. It is an online Structured Reptition System program for learning more than 2000 kanji and lots of vocabulary. The community that has developed around Wanikani is also a great inspiration for code projects building on the open data model that wanikani follows. Here are some of mine.
+[Wanikani](https://www.wanikani.com/) is an integral part of my strategy for learning Japanese. It is an online Structured Reptition System program for learning more than 2000 kanji and lots of vocabulary. The community that has developed around Wanikani is also a great inspiration for code projects building on the open data model that wanikani follows. Here are some of mine.
 
 - [wanikani-writing](https://gwmatthews.github.io/wanikani-writing/): printable kanji writing practice sheets organized by Wanikani levels. The [repository is here](https://github.com/gwmatthews/wanikani-writing).
 

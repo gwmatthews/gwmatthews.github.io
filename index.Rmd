@@ -22,7 +22,6 @@ Ethics
 
 Introduction to Philosophy
 
-- [Philosophy in the Wild](https://gwmatthews.github.io/philosophy-in-the-wild/): an open source online textbook currently in heavy development
 - [slideshows](philosophy-slides.html)
 
 Science or Superstition
