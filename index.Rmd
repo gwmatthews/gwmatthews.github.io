@@ -18,7 +18,6 @@ Ethics
 - [Philosophical Ethics](https://gwmatthews.github.io/ethics/): an open source online textbook
 - [slideshows](ethics-slides.html)
 - [Ethics, an anthology](https://press.rebus.community/intro-to-phil-ethics/){target="_blank"}
-- [ethics updates](ethics-updates.html)
 
 Introduction to Philosophy
 
